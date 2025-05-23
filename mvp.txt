@@ -1,0 +1,6 @@
+MVP
+1. Add & view grocery items with prices, expiry, etc.
+2. Track how often you buy/use items
+3. See charts showing spending & usage patterns
+4. Get suggestions (like “restock” or “don’t buy again”)
+5. Deploy
